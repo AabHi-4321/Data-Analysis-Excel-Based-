@@ -15,7 +15,6 @@ The dashboard enables quick decision-making by converting raw data into **clear 
 - Evaluate **order fulfillment status**
 - Identify **top-performing states**
 - Analyze **sales channels contribution**
-- Determine **top product categories**
 
 ---
 
@@ -117,5 +116,3 @@ It highlights the importance of **data-driven strategies** in improving sales an
 
 ---
 
-## 📬 Connect With Me
-Feel free to connect for feedback or collaboration!
